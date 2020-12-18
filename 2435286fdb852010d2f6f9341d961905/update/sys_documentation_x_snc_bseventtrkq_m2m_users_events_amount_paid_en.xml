@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="amount_paid" label="Amount paid" language="en" table="x_snc_bseventtrkq_m2m_users_events">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>amount_paid</element>
+            <help/>
+            <hint/>
+            <label>Amount paid</label>
+            <language>en</language>
+            <name>x_snc_bseventtrkq_m2m_users_events</name>
+            <plural>Amount paids</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2020-12-18 20:22:25</sys_created_on>
+            <sys_id>623920a3dbc52010d2f6f9341d9619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Amount paid</sys_name>
+            <sys_package display_value="Event Tracker" source="x_snc_bseventtrkq">2435286fdb852010d2f6f9341d961905</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Event Tracker">2435286fdb852010d2f6f9341d961905</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_bseventtrkq_m2m_users_events_amount_paid_en</sys_update_name>
+            <sys_updated_by>fred.luddy</sys_updated_by>
+            <sys_updated_on>2020-12-18 20:22:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Bseventtrkq M2m Users Events" max_length="40" name="x_snc_bseventtrkq_m2m_users_events" type="collection">
+        <element label="Amount paid" max_length="20" name="amount_paid" type="currency"/>
+        <element attributes="encode_utf8=false" label="Event" max_length="32" name="event" reference="x_snc_bseventtrkq_event" type="reference"/>
+        <element label="Paid" max_length="40" name="paid" type="boolean"/>
+        <element attributes="encode_utf8=false" label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="event"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+    </element>
+</database>
