@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_snc_bseventtrkq_event</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Event Form Screen">e6772823dbc52010d2f6f9341d96192a</embedded_screen>
+        <item_view/>
+        <name>Event master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-18 20:14:46</sys_created_on>
+        <sys_id>26772823dbc52010d2f6f9341d96192d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Event master_item</sys_name>
+        <sys_package display_value="Event Tracker" source="x_snc_bseventtrkq">2435286fdb852010d2f6f9341d961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Tracker">2435286fdb852010d2f6f9341d961905</sys_scope>
+        <sys_update_name>sys_sg_master_item_26772823dbc52010d2f6f9341d96192d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-18 20:14:46</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Event List Screen View Config">8677e423dbc52010d2f6f9341d961940</view_config>
+    </sys_sg_master_item>
+</record_update>

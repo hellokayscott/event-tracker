@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Event)">3a772823dbc52010d2f6f9341d96194b</button>
+        <item_parameter display_value="Event description">ba772823dbc52010d2f6f9341d961949</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-18 20:14:47</sys_created_on>
+        <sys_id>76772823dbc52010d2f6f9341d96194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ba772823dbc52010d2f6f9341d961949</sys_name>
+        <sys_package display_value="Event Tracker" source="x_snc_bseventtrkq">2435286fdb852010d2f6f9341d961905</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Tracker">2435286fdb852010d2f6f9341d961905</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_76772823dbc52010d2f6f9341d96194e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-18 20:14:47</sys_updated_on>
+        <ui_parameter display_value="Description">72772823dbc52010d2f6f9341d96194c</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
